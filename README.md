@@ -4,7 +4,9 @@ This a static server for loading assets,
 
 in the head tag of HTML add this:
 
-` <script src="https://unpkg.com/lottie-web@5.12.2/build/player/lottie.min.js"></script> `
+```
+ <script src="https://unpkg.com/lottie-web@5.12.2/build/player/lottie.min.js"></script> 
+ ```
 
 In the reqired place add this:
 
