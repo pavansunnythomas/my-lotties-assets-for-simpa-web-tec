@@ -26,7 +26,7 @@ In the reqired place add this:
 
 #lottie-loader {
   width: 200px;
-  height: 200px;
+  height: auto;
 }
 </style>
 
@@ -50,3 +50,7 @@ document.addEventListener("DOMContentLoaded", function () {
 - https://pavansunnythomas.github.io/my-lotties-assets-for-simpa-web-tec/lottie-assets/lottie/Successfully_done.json
 - https://pavansunnythomas.github.io/my-lotties-assets-for-simpa-web-tec/lottie-assets/lottie/Message_Sent.json
 - https://pavansunnythomas.github.io/my-lotties-assets-for-simpa-web-tec/lottie-assets/lottie/Write.json
+- https://pavansunnythomas.github.io/my-lotties-assets-for-simpa-web-tec/lottie-assets/lottie/dependability.json
+- https://pavansunnythomas.github.io/my-lotties-assets-for-simpa-web-tec/lottie-assets/lottie/fixable_idea.json
+- https://pavansunnythomas.github.io/my-lotties-assets-for-simpa-web-tec/lottie-assets/lottie/Freelancer_Working.json
+- https://pavansunnythomas.github.io/my-lotties-assets-for-simpa-web-tec/lottie-assets/lottie/technologies.json
