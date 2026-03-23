@@ -54,6 +54,7 @@ document.addEventListener("DOMContentLoaded", function () {
 - https://pavansunnythomas.github.io/my-lotties-assets-for-simpa-web-tec/lottie-assets/lottie/fixable_idea.json
 - https://pavansunnythomas.github.io/my-lotties-assets-for-simpa-web-tec/lottie-assets/lottie/Freelancer_Working.json
 - https://pavansunnythomas.github.io/my-lotties-assets-for-simpa-web-tec/lottie-assets/lottie/technologies.json
+- https://pavansunnythomas.github.io/my-lotties-assets-for-simpa-web-tec/lottie-assets/lottie/Sandy_Loading.json
 
 
 ### Available Images
